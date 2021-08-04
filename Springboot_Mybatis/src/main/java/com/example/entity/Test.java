@@ -9,5 +9,5 @@ public class Test {
 
     private String qpp;
     private String qq;
-    private String qqq;
+    private String uuu;
 }
